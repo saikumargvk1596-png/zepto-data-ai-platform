@@ -53,3 +53,4 @@ git log --graph --all --oneline
 ```
 ## Project Status
 All three modules are implemented and tested locally.
+The project includes data pipeline, analytics, and support assistant modules.
