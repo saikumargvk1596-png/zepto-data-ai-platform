@@ -1,0 +1,1 @@
+SELECT title,rating FROM books LIMIT 10

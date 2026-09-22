@@ -1,0 +1,1 @@
+SELECT b.title,b.rating,c.category_name FROM books b JOIN categories c ON b.category_id=c.category_id ORDER BY b.rating DESC,b.title LIMIT 10

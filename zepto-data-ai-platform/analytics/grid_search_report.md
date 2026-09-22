@@ -1,0 +1,1 @@
+# Grid Search\nBest parameters: `{'model__max_depth': 5, 'model__max_features': 'sqrt', 'model__n_estimators': 100}`\n\nCV F1: `0.745929`\n\nOOB score: `0.827247`\n

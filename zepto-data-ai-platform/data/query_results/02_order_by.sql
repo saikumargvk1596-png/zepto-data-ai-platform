@@ -1,0 +1,1 @@
+SELECT title,price_inr FROM books ORDER BY price_inr DESC
